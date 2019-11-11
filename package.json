@@ -12,5 +12,6 @@
   "license": "MIT",
   "devDependencies": {
     "@types/react": "^16.9.11"
-  }
+  },
+  "types": "index"
 }

@@ -1,5 +1,3 @@
-/// <reference types="react" />
-
 declare module 'rc-trigger' {
   import * as React from 'react';
 
